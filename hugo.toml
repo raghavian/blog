@@ -2,7 +2,7 @@ baseURL = 'https://raghavian.github.io/blog/'
 languageCode = 'en-uk'
 title = 'Raghav Rants'
 theme = 'PaperMod'
-copyright = "Raghavendra Selvan"
+copyright = '© 2026 Raghavendra Selvan. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).'
 
 [params]
   # UI toggles
