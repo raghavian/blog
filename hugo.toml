@@ -1,0 +1,15 @@
+baseURL = 'https://raghavian.github.io/blog/'
+languageCode = 'en-us'
+title = 'Raghav Rants'
+theme = 'PaperMod'
+
+[params]
+  # UI toggles
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowToc = true
+  displayFullLangName = true
+
+[build]
+  # Ensure standard markdown compilation
+  writeStats = true
