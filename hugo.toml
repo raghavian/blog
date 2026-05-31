@@ -9,6 +9,7 @@ theme = 'PaperMod'
   ShowShareButtons = false
   ShowToc = true
   displayFullLangName = true
+  copyright = "Raghavendra Selvan"
 
 [build]
   # Ensure standard markdown compilation
