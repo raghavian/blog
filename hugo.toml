@@ -1,7 +1,8 @@
 baseURL = 'https://raghavian.github.io/blog/'
-languageCode = 'en-us'
+languageCode = 'en-uk'
 title = 'Raghav Rants'
 theme = 'PaperMod'
+copyright = "Raghavendra Selvan"
 
 [params]
   # UI toggles
@@ -9,7 +10,6 @@ theme = 'PaperMod'
   ShowShareButtons = false
   ShowToc = true
   displayFullLangName = true
-  copyright = "Raghavendra Selvan"
 
 [build]
   # Ensure standard markdown compilation
